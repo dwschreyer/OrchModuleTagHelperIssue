@@ -20,5 +20,6 @@ Roadmap:
 
 - Base views
 - Project templates
+- Settings on a per module basis`
 - Real world demo application
 - Guidance documentation
