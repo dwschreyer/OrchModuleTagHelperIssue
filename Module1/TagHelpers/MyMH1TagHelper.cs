@@ -14,7 +14,7 @@ namespace Module1.TagHelpers
         {
             output.TagName = "h1";
             var htmlAttributes = new Dictionary<string, object>();
-            htmlAttributes.Add("style", "background-color: blue; color: white;");
+            htmlAttributes.Add("style", "background-color: red; color: white;");
             var tagBuilder = new TagBuilder(output.TagName);
             tagBuilder.MergeAttributes(htmlAttributes);
             output.MergeAttributes(tagBuilder);
