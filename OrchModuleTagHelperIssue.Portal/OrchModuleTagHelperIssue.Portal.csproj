@@ -8,9 +8,9 @@
     <Folder Include="wwwroot\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.1.0-beta1" />
     <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
-    <PackageReference Include="OrchardCore.Modules.Mvc" Version="2.0.0-preview" />
+    <PackageReference Include="OrchardCore.Modules.Mvc" Version="2.0.0-preview-1977" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Module1\Module1.csproj" />

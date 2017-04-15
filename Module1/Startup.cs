@@ -10,7 +10,7 @@ namespace Module1
     {
         public override void ConfigureServices(IServiceCollection services)
         {
-            
+            services.AddTransient<ClTagHelpers.IMyRepository, ClTagHelpers.MyRepository>();
         }
 
         public override void Configure(IApplicationBuilder app, IRouteBuilder routes, IServiceProvider serviceProvider)

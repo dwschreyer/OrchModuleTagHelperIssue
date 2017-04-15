@@ -12,13 +12,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.2" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Modules.Abstractions" Version="2.0.0-preview" />
-    <PackageReference Include="OrchardCore.AsModule" Version="2.0.0-preview" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Modules.Abstractions" Version="2.0.0-preview-1977" />
+    <PackageReference Include="OrchardCore.AsModule" Version="2.0.0-preview-1977" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ClTagHelpers\ClTagHelpers.csproj" />
-    <ProjectReference Include="..\ExMClTagHelpers\ExMClTagHelpers.csproj" />
   </ItemGroup>
 
 </Project>

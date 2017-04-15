@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClTagHelpers", "ClTagHelper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1", "Module1\Module1.csproj", "{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExMClTagHelpers", "ExMClTagHelpers\ExMClTagHelpers.csproj", "{E01ECD24-46BF-465C-BD7A-12ABC0443544}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E01ECD24-46BF-465C-BD7A-12ABC0443544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E01ECD24-46BF-465C-BD7A-12ABC0443544}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E01ECD24-46BF-465C-BD7A-12ABC0443544}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E01ECD24-46BF-465C-BD7A-12ABC0443544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
