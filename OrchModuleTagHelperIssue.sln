@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClTagHelpers", "ClTagHelper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1", "Module1\Module1.csproj", "{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalFramework", "PortalFramework\PortalFramework.csproj", "{2B4912C8-EDF6-4850-9E48-5C13E4943CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ECC6CBA-7767-4266-A92D-7B81B7E30CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4912C8-EDF6-4850-9E48-5C13E4943CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4912C8-EDF6-4850-9E48-5C13E4943CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4912C8-EDF6-4850-9E48-5C13E4943CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4912C8-EDF6-4850-9E48-5C13E4943CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

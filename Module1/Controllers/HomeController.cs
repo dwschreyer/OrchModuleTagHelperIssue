@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PortalFramework;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using ClTagHelpers;
+//using ClTagHelpers;
 
 namespace Module1.Controllers
 {
@@ -14,7 +15,7 @@ namespace Module1.Controllers
         {
             _repository = repository;
         }
-
+        
         public IActionResult Index()
         {
             DoStuff();

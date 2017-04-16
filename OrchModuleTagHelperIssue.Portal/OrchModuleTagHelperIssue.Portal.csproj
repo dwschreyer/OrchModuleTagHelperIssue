@@ -10,9 +10,10 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.1.0-beta1" />
     <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
-    <PackageReference Include="OrchardCore.Modules.Mvc" Version="2.0.0-preview-1977" />
+    <PackageReference Include="OrchardCore.Modules.Mvc" Version="2.0.0-preview-1986" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ClTagHelpers\ClTagHelpers.csproj" />
     <ProjectReference Include="..\Module1\Module1.csproj" />
   </ItemGroup>
 

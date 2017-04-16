@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClTagHelpers
+namespace PortalFramework
 {
     public interface IMyRepository
     {
